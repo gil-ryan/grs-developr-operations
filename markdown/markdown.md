@@ -6,7 +6,7 @@ For convenience, may already have a directory for this but will migrate it once 
 
 for example, this:
 
-> ## \\ \` \* \_ \{ \} \[ \] \( \) \# \+ \- \. \!
+\\ \` \* \_ \{ \} \[ \] \( \) \# \+ \- \. \!
 
 returns:
 
