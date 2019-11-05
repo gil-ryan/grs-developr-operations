@@ -68,3 +68,7 @@ for (int c = 'a'; c <= 'z'; c++)
         printf("%c: %i\n", c , (int) c);
 }
 ```
+
+### command-line arguments
+
+> int main(int argc, string argv[])
