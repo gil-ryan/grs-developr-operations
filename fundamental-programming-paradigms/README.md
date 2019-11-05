@@ -1,4 +1,4 @@
-# Fundementals in Programming
+# Fundamentals in Programming
 
 You can use this the navigate your way around and through fundamental programming concepts.
 
@@ -35,3 +35,24 @@ void PrintName(string name)
 ```
 
 Also notice by initally declaring the function at the top of our program, your giving the compiler a litte 'breadcrumb' promising that you're going to make this function, _PrintName_, do something eventually.
+
+### representation of information
+
+* integer overflow and floats
+
+## ASCII
+
+Lets convert ASCII character witha C program:
+
+```c
+#include <stdio.h>
+int main(void){
+
+for (int i = 65; i < 65 + 26; i++){
+        printf("%c: %i\n", (char) i, i);
+}
+printf("\n");
+for (int i = 97; i < 97 + 26; i++){
+        printf("%c: %i\n", (char) i, i);
+}}
+```
