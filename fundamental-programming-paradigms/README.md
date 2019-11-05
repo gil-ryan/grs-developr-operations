@@ -4,7 +4,7 @@ You can use this the navigate your way around and through fundamental programmin
 
 ## Current Resources
 
-![Harvard Programming Courses - CS50]("https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA")
+![Harvard Programming Courses - CS50](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
 
 
 ## Main Topics you will find here
@@ -34,4 +34,4 @@ void PrintName(string name)
 }
 ```
 
-Also notice by initally declaring the function at the top, your giving the compiler a litte 'breadcrumb' promising that you're going to make this function, _PrintName_, do something eventually.
+Also notice by initally declaring the function at the top of our program, your giving the compiler a litte 'breadcrumb' promising that you're going to make this function, _PrintName_, do something eventually.
