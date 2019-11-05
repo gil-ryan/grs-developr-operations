@@ -46,8 +46,8 @@ Lets convert ASCII character witha C program:
 
 ```c
 #include <stdio.h>
+// Typecast an int to a char
 int main(void){
-
 for (int i = 65; i < 65 + 26; i++){
         printf("%c: %i\n", (char) i, i);
 }
@@ -55,4 +55,16 @@ printf("\n");
 for (int i = 97; i < 97 + 26; i++){
         printf("%c: %i\n", (char) i, i);
 }}
+```
+
+```c
+#include <stdio.h>
+// Typecast a char to an int
+int main(void){
+for (int c = 'A'; c <= 'Z'; c++)
+        printf("%c: %i\n", c , (int) c);
+printf("\n");
+for (int c = 'a'; c <= 'z'; c++)
+        printf("%c: %i\n", c , (int) c);
+}
 ```
