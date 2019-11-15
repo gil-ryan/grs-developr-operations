@@ -9,11 +9,11 @@ Validate your OS is appropriate, meaning, it is a linux box. Once you're all set
 ## Apache
 
 > sudo apt-get install apache2
-
 > sudo service apache2 status
 
 ### Test Apache
-sudo service apache2 status
+
+> sudo service apache2 status
 
 If everything installed correctly, you will receive this output:
 Apache is active and running in Ubuntu.
@@ -28,4 +28,4 @@ sudo ufw app info “Apache Full”
 
 ## PhP
 
-> sudo apt-get install php libapache2-mod-php php-mysql 
+> sudo apt-get install php libapache2-mod-php php-mysql
