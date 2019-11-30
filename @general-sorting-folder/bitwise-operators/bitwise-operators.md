@@ -1,6 +1,8 @@
 # Bitwise Operators
 
-|: Operator :|: Description :|
+| Operator  | Description |
 |:-:|:-:|
 | & | bitwise AND |
+| \| | bitwise OR |
+
  
