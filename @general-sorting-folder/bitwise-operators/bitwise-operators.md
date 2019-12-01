@@ -9,3 +9,10 @@
 | >> | shift right| The left operand value is moved right by the number of bits specified by the right operand. a >> 2 = 15 (means 0000 1111)
 | ~ | one's complement| It is unary and has the effect of 'flipping' bits. (~a) = -61 (means 1100 0011) in 2's complement form due to a signed binary number | 
  
+## Flash Card
+
+### How would you turn OFF the 3rd bit from the end in a bitstring?
+
+```python
+x &= ~(1 << 2);
+```
