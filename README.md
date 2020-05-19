@@ -11,3 +11,9 @@ lint, or a linter, is a tool that analyzes source code to flag programming error
 Pylint is meant to be called from the command line. The usage is:
 
 > pylint [options] modules_or_packages
+
+## Google Searching
+
+Remove wikipedia from search, append to your search:
+
+> a -site:en.wikipedia.org
