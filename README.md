@@ -6,7 +6,7 @@ Please review my disclaimer and note that files sizes can be quite large despits
 
 * [Subnets](https://github.com/gil-ryan/grs-developr-operations/tree/master/NETWORKING/SUBNETS)
     + RFC1918
-        - [10.0.0.0/24](https://github.com/gil-ryan/grs-developr-operations/blob/master/NETWORKING/SUBNETS/10.0.0.0:24.txt)
-        - [172.16.0.0/20](https://github.com/gil-ryan/grs-developr-operations/blob/master/NETWORKING/SUBNETS/172.16.0.0:20.txt)
-        - [192.168.1.0/16](https://github.com/gil-ryan/grs-developr-operations/blob/master/NETWORKING/SUBNETS/192.168.0.0:16.txt)
+        - [10.0.0.0/24](https://raw.githubusercontent.com/gil-ryan/grs-developr-operations/master/NETWORKING/SUBNETS/10.0.0.0%3A24.txt)
+        - [172.16.0.0/20](https://raw.githubusercontent.com/gil-ryan/grs-developr-operations/master/NETWORKING/SUBNETS/172.16.0.0%3A20.txt)
+        - [192.168.1.0/16](https://raw.githubusercontent.com/gil-ryan/grs-developr-operations/master/NETWORKING/SUBNETS/192.168.0.0%3A16.txt)
 
