@@ -1,19 +1,12 @@
-# Developer Operations
+# Developer Operations Directory
 
-I'll likely make a winded repository for this, but I feel like it will eventually come to make a lot of sense.
+Please review my disclaimer and note that files sizes can be quite large despits being __txt__. A /16 subnet is 65,535 network addresses so the file size is about 1Mb.
 
-## Linters
+## Networking
 
-lint, or a linter, is a tool that analyzes source code to flag programming errors, bugs, stylistic errors, and suspicious constructs. The term originates from a Unix utility that examined C language source code. Ay.
+* [Subnets](https://github.com/gil-ryan/grs-developr-operations/tree/master/NETWORKING/SUBNETS)
+    + RFC1918
+        - [10.0.0.0/24](https://github.com/gil-ryan/grs-developr-operations/blob/master/NETWORKING/SUBNETS/10.0.0.0:24.txt)
+        - [172.16.0.0/20](https://github.com/gil-ryan/grs-developr-operations/blob/master/NETWORKING/SUBNETS/172.16.0.0:20.txt)
+        - [192.168.1.0/16](https://github.com/gil-ryan/grs-developr-operations/blob/master/NETWORKING/SUBNETS/192.168.0.0:16.txt)
 
-### Pylint 
-
-Pylint is meant to be called from the command line. The usage is:
-
-> pylint [options] modules_or_packages
-
-## Google Searching
-
-Remove wikipedia from search, append to your search:
-
-> a -site:en.wikipedia.org
