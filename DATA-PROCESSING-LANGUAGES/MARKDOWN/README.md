@@ -4,8 +4,8 @@
 
 ## Quick MD references
 
-| Function | Shortcut |
-|:-:|:-:|
+| Function | Shortcut | Commands | 
+|:-:|:-:|:-:|
 | URL | [URL to www.example.com](https://www.example.com) | "[title](https://www.example.com)"|
 | Image |  ![alt text](image.jpg) | "![alt text](image.jpg)|
 | Footnote | Here's a sentence with a footnote.[^1] [^1]: This is the footnote.  | "[^1] [^1]:" |
