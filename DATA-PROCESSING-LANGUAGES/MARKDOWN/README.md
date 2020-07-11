@@ -4,7 +4,22 @@
 
 | Function | Shortcut |
 |:-:|:-:|
-| URL | [title](https://www.example.com) |
+| URL | [URL to www.example.com](https://www.example.com) |
+| Image |  ![alt text](image.jpg) |
+| Footnote | Here's a sentence with a footnote.[^1] [^1]: This is the footnote.  |
+| Strikethrough | ~~strike through!~~ |
+| Term/Definition | term
+: definition |
+| Task List | - [x] Task list! |
+
+##  Escape Characters
+
+This: \\ \` \* \_ \{ \} \[ \] \( \) \# \+ \- \. \!
+
+Returns:
+
+> \ ` * _ { } [ ] ( ) # + - . !
+ | 
 
 ## Detailed MD references
 
@@ -39,7 +54,7 @@ term
 
 For convenience, may already have a directory for this but will migrate it once found.
 
-## Escape characters
+### Escape characters
 
 for example, this:
 
