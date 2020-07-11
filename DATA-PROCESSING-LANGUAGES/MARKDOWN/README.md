@@ -4,14 +4,14 @@
 
 ## Quick MD references
 
-| Function | Shortcut | Commands | 
-|:-:|:-:|:-:|
-| URL | [URL to www.example.com](https://www.example.com) | "[title](https://www.example.com)"|
-| Image |  ![alt text](image.jpg) | "![alt text](image.jpg)|
-| Footnote | Here's a sentence with a footnote.[^1] [^1]: This is the footnote.  | "[^1] [^1]:" |
-| Strikethrough | ~~strike through!~~ | "~~strike through!~~" |
-| Term/Definition | term: definition | "term: definition" |
-| Task List | - [x] Task list! |- [x] Task list! | 
+| Function | Shortcut |
+|:-:|:-:|
+| [URL](https://github.com/gil-ryan/grs-developr-operations/tree/master/DATA-PROCESSING-LANGUAGES/MARKDOWN#link) | [URL to www.example.com](https://www.example.com) |
+| [Image](https://github.com/gil-ryan/grs-developr-operations/tree/master/DATA-PROCESSING-LANGUAGES/MARKDOWN#image) |  ![alt text](image.jpg) |
+| [Footnote](https://github.com/gil-ryan/grs-developr-operations/tree/master/DATA-PROCESSING-LANGUAGES/MARKDOWN#footnote) | Here's a sentence with a footnote.[^1] [^1]: This is the footnote.  |
+| [Strikethrough](https://github.com/gil-ryan/grs-developr-operations/tree/master/DATA-PROCESSING-LANGUAGES/MARKDOWN#strikethrough) | ~~strike through!~~ |
+| [Term/Definition](https://github.com/gil-ryan/grs-developr-operations/tree/master/DATA-PROCESSING-LANGUAGES/MARKDOWN#defintion-list) | term: definition |
+| [Task List](https://github.com/gil-ryan/grs-developr-operations/tree/master/DATA-PROCESSING-LANGUAGES/MARKDOWN#task-list) | - [x] Task list! |
 
 ##  Escape Characters
 
@@ -55,6 +55,8 @@ term
 
 - [x] Task list!
 
+---
+
 ## More Syntax
 
 For convenience, may already have a directory for this but will migrate it once found.
@@ -68,3 +70,9 @@ for example, this:
 returns:
 
 > \ ` * _ { } [ ] ( ) # + - . !
+
+## Headings
+
+```
+---
+```
