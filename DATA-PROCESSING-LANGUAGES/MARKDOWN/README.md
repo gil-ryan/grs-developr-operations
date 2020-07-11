@@ -1,15 +1,17 @@
 # Markdown Template
 
+[Jump to commands used in Markdown files.](https://github.com/gil-ryan/grs-developr-operations/tree/master/DATA-PROCESSING-LANGUAGES/MARKDOWN#how-to-use-md-references)
+
 ## Quick MD references
 
 | Function | Shortcut |
 |:-:|:-:|
 | URL | [URL to www.example.com](https://www.example.com) | "[title](https://www.example.com)"|
-| Image |  ![alt text](image.jpg) |
-| Footnote | Here's a sentence with a footnote.[^1] [^1]: This is the footnote.  |
-| Strikethrough | ~~strike through!~~ |
-| Term/Definition | term: definition |
-| Task List | - [x] Task list! |
+| Image |  ![alt text](image.jpg) | "![alt text](image.jpg)|
+| Footnote | Here's a sentence with a footnote.[^1] [^1]: This is the footnote.  | "[^1] [^1]:" |
+| Strikethrough | ~~strike through!~~ | "~~strike through!~~" |
+| Term/Definition | term: definition | "term: definition" |
+| Task List | - [x] Task list! |- [x] Task list! | 
 
 ##  Escape Characters
 
@@ -20,7 +22,7 @@ Returns:
 > \ ` * _ { } [ ] ( ) # + - . !
  | 
 
-## Detailed MD references
+## How to Use MD references
 
 ### Link
 
