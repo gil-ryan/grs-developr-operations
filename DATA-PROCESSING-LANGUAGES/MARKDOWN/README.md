@@ -8,8 +8,7 @@
 | Image |  ![alt text](image.jpg) |
 | Footnote | Here's a sentence with a footnote.[^1] [^1]: This is the footnote.  |
 | Strikethrough | ~~strike through!~~ |
-| Term/Definition | term
-: definition |
+| Term/Definition | term: definition |
 | Task List | - [x] Task list! |
 
 ##  Escape Characters
