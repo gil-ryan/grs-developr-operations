@@ -15,12 +15,13 @@
 
 ##  Escape Characters
 
-This: \\ \` \* \_ \{ \} \[ \] \( \) \# \+ \- \. \!
+This:
 
-Returns:
+> \\ \` \* \_ \{ \} \[ \] \( \)S \# \+ \- \. \!
+
+Will return:
 
 > \ ` * _ { } [ ] ( ) # + - . !
- | 
 
 ## How to Use MD references
 
