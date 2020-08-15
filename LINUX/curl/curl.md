@@ -1,4 +1,4 @@
-# Utilizing curl
+# Client URL - CURL
 
 ## Handy tips and tricks
 
